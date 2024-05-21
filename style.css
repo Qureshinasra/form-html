@@ -1,4 +1,9 @@
 body{
     background-image: url(assets/download.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+    text-align: center;
 }
